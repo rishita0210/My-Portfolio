@@ -1,0 +1,37 @@
+.work-header h1{
+    margin-top: 100px;
+    color: rgb(150, 3, 26);
+    align-items: center;
+    font-weight: 800;
+    justify-content: center;
+    margin-left: 420px;
+}
+.work-subtitle {
+    margin-top: 20px;
+}
+.p1{
+    margin-left: 300px;
+}
+.p2{
+    margin-left: 280px;
+}
+.p3{
+    margin-left: 310px;
+}
+
+.img{
+    margin-top: 50px;
+    height:180px;
+    width:400px;
+}
+
+.my-projects{
+    margin: 1rem;
+    display: flex;
+    flex-direction: row;
+}
+.project{
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+}

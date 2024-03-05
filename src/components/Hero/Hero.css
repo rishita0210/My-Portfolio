@@ -1,0 +1,45 @@
+.Hero-container{
+   
+    display:flex;
+    flex-direction: row;
+}
+.Hero-content{
+    display: flex;
+    flex-direction: row;
+}
+
+.hero-left{
+    margin-top: 120px;
+    margin-left: 300px;
+}
+
+.hero-left h3{
+    margin-left: 100px;
+}
+.hero-left h1{
+    margin-left: 190px;
+    color:rgb(150, 3, 26);
+}
+
+.Hero-Hire{
+    margin-left: 250px;
+    margin-top: 100px;
+    width:180px;
+    height: 40px;
+    border-radius: 999px;
+}
+.hero-left h4{
+    margin-left: 100px;
+}
+
+.self{
+    align-items: center;
+    height:500px;
+    width:500px;
+    margin-top: -80px;
+    margin-left: 100px;
+    border-radius:16rem;
+    border-color: #96031a;
+    border-width: 4rem;
+    
+}

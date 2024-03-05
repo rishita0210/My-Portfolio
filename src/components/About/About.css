@@ -1,0 +1,53 @@
+.About-container {
+    margin-top: 90px;
+    align-items: center;
+}
+.what-I-do h1{
+    color: rgb(150, 3, 26);
+    align-items:center;
+    margin-left: 400px;
+    margin-top: 250px;
+    font-weight: 900;
+    padding:0 2rem  ;
+
+}
+.what-I-do h3{
+    margin-left: 530px;
+}
+.what-I-do h4{
+    margin-left: 200px;
+    justify-content:flex-end;
+}
+
+.skill-set{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    
+}
+.HTML{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    border-radius: 2.5rem;
+    height:80px;
+    width:500px;
+    
+    background-color:#901124;
+    margin: 1.0rem;
+    border-radius: 0.5rem;
+    
+    
+
+    
+    
+}
+.skill{
+    margin-left: 185px;
+   
+    height: 50px;
+    width: 50px;
+}
