@@ -14,7 +14,7 @@ const About = () => {
                 <h1>__________What I do___________</h1>
                 <h3>As a frontend web developer, </h3>
                 <h4 >I have a keen eye for design and expertise in HTML, CSS, and JavaScript .I specialize in sculpting engaging and responsive </h4>
-                <h4 > user interfaces. I ensure that websites not only look appealing but also deliver a seamless and delightful user experience.</h4>
+                <h4 > user interfaces. I ensure that websites not only look appealing but also deliver a seamless and good delightful user experience.</h4>
                
                      
                 
