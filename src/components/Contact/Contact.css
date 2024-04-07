@@ -1,130 +1,120 @@
 .contact-header{
     display:flex;
     flex-direction: column;
+    color:rgb(150, 3, 26);
+    margin-top: 30px;
+   
 }
-.contact-form{
-    margin-top: 25px;
-    display:flex;
-    flex-direction: column;
-    height:380px;
-    width:700px;
-    margin-left: 300px;
-    border: 2px solid #96031a;
-}
+.contact-title{
+    color: rgb(150, 3, 26);
+    margin-top: 30px;
+    margin-left: 400px;
+    
 
-.contact-title h1{
-    font-weight: 700;
-    color: #96031a;
-    margin-top: 100px;
-    margin-left: 430px;
 }
 
 .contact-subtitle{
-    margin-left: 440px;
-    margin-top: 20px;
-    font-weight: 100;
-}
-
-.name{
-    height:50px;
-    width:500px;
-    margin-top: 50px;
-    background-color: rgb(50, 50 ,50);
-    margin-left: 180px;
-    align-items: center;
-    border: 1px solid #96031a;
-    font-size: small;
-}
-
-.email{
-    height:50px;
-    width:500px;
-    margin-top: 20px;
-    background-color: rgb(50, 50 ,50);
-    margin-left: 180px;
-    font-size: small;
+    margin-left: 100px;
+    margin-top: 90px;
     font-weight: 400;
-    color: white;
-    border: 1px solid #96031a;
-    align-items: center;
+    font-size: x-large;
 }
 
-.msg{
-    height:100px;
-    width:500px;
-    margin-top: 30px;
-    background-color: rgb(50, 50 ,50);
-    text-align: left;
+.social-accounts{
+    margin-top: 50px;
+    display:flex;
+    flex-direction: row;
+    width: 900px;
+    height: 350px;
+    padding:50px;
     margin-left: 180px;
-    border: 1px solid #96031a;
-    align-items: center;
-    justify-content: center;
-    font-size: larger;
-}
-
-.cimg{
-    height: 200px;
-    width: 400px;
+    margin-bottom: 20px;
     
-    
-    margin-left: 150px;
 }
-
-.contact-details{
-    display: flex;
-    flex-direction: column;
-    margin-top: -10px;
-    margin-left: -80px;
-}
-
-.Contact-button{
-    height:40px;
-    width:150px;
-    background-color: white;
-    border-radius: 4rem;
-    margin-left: 370px;
-    margin-top: 20px;
-    border: 2px solid #96031a;
-    font-weight: 200;
-}
-
 .personal-accounts{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     margin-top: 30px;
     margin-left: 10px;
-    align-content: end;
+    
+    
+    
     
 }
-
+.socialll{
+    display: flex;
+    flex-direction: row;
+    
+}
 .socialmedia{
     height:30px;
     width: 30px;
-    margin-left: 580px;
+    margin-left: 100px;
+    margin-top: 45px;
     
+    
+
+}
+.insta-text{
+    font-size: medium;
+    margin-left: 10px;
+    margin-top: 45px;
+    font-style: oblique;
+    color: #6a6e7e;
+    text-decoration:underline;
+}
+
+.linkdin-text{
+    font-size: medium;
+    margin-left: 12px;
+    margin-top: 10px;
+    font-style: oblique;
+    color:#6a6e7e;
+    text-decoration:underline;
+
+}
+
+.Gmail-text{
+    font-size: medium;
+    margin-left: 11px;
+    margin-top: 14px;
+    font-style: oblique;
+    color: #6a6e7e;
+    text-decoration:underline;
+}
+
+.Tele-text{
+    text-decoration:underline;
+    font-size: medium;
+    margin-left: 6px;
+    margin-top: 10px;
+    font-style: oblique;
+    color: #6a6e7e;
+
 
 }
 
 .socialmedia-tele{
     height:30px;
     width:50px;
-    margin-left: -3px;
-    
+    margin-left: 90px;
+    margin-top: 10px;
     
 }
 
 .socialmedia-gmail{
     height :40px;
     width:40px;
-    margin-left: 10px;
+    margin-left: 96px;
     margin-top: -4px;
-    
+    margin-top: 10px;
 
 }
 
 .socialmedia-link{
-    margin-left: 15px;
+    margin-left: 100px;
     height:30px;
     width: 30px;
-
+    margin-top: 10px;
 }
+

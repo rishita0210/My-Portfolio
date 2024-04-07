@@ -43,3 +43,10 @@
     border-width: 4rem;
     
 }
+.resume{
+    margin-top: 50px;
+    margin-left: 250px;
+    height:35px;
+    width:160px;
+    border-radius:20px;
+}
