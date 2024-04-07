@@ -2,7 +2,7 @@ import React from 'react'
 
 
 import './Hero.css'
-const PDF_FILE_URL='http://localhost:3000/resume.pdf'
+const PDF_FILE_URL='https://my-portfolio-lovat-eta.vercel.app/resume.pdf'
 const Hero = () => {
   const downloadFileAtURL = (url) => {
     const fileName= url.split('/').pop();
